@@ -3,7 +3,7 @@ new Game(
 		name: "Policemen vs Pirates",
 		xthing: 'Pirate',
 		ything: 'Police',
-		url: 'https://poddle.io/play/pvp/',
+		url: 'http://bloomsbury.digital/gewgaws/policemen-vs-pirates/',
 		seconds: 10,
 		title: 'Do you know your<br /><span class="xthing">arr</span> from your' +
 			'<br /><span class="ything">ello ello ello</span>?',
@@ -11,9 +11,8 @@ new Game(
 			'or a police thing. Earn points the faster you guess the image, ' +
 			'and lose points when you run out of time.',
 		goodbye: 'We\'re Poddle, and we made this game to celebrate ' +
-			'<a href="https://poddle.io/battlegeekz/" target="_blank">Battle Geekz</a> ' +
-			'joining our little podcast network. Check them out every week at ' +
-			'<a href="http://battlegeekz.com/" target="_blank">battlegeekz.com</a>.',
+			'Battle Geekz joining our little podcast network. Check them out ' +
+			'every week at <a href="http://battlegeekz.com/" target="_blank">battlegeekz.com</a>.',
 		levels: [
 			{
 				intro: 'Is this',
@@ -24,7 +23,7 @@ new Game(
 					ything: 'Trinket'
 				},
 				answer: 'xthing',
-				image: '/toys/pvp/assets/1.jpg'
+				image: '/thing-vs-thing/assets/1.jpg'
 			},
 			{
 				intro: 'Are this band',
@@ -35,7 +34,7 @@ new Game(
 					ything: 'Sex Pistols'
 				},
 				answer: 'xthing',
-				image: '/toys/pvp/assets/2.jpg'
+				image: '/thing-vs-thing/assets/2.jpg'
 			},
 			{
 				intro: 'Is this',
@@ -46,7 +45,7 @@ new Game(
 					ything: 'Jack'
 				},
 				answer: 'ything',
-				image: '/toys/pvp/assets/3.jpg'
+				image: '/thing-vs-thing/assets/3.jpg'
 			},
 			{
 				intro: 'Is this from',
@@ -57,7 +56,7 @@ new Game(
 					ything: 'Trial'
 				},
 				answer: 'ything',
-				image: '/toys/pvp/assets/4.jpg'
+				image: '/thing-vs-thing/assets/4.jpg'
 			},
 			{
 				intro: 'Is this',
@@ -68,7 +67,7 @@ new Game(
 					ything: 'Booty'
 				},
 				answer: 'xthing',
-				image: '/toys/pvp/assets/5.jpg'
+				image: '/thing-vs-thing/assets/5.jpg'
 			},
 			{
 				intro: 'Is this',
@@ -79,7 +78,7 @@ new Game(
 					ything: 'Grill'
 				},
 				answer: 'ything',
-				image: '/toys/pvp/assets/6.jpg'
+				image: '/thing-vs-thing/assets/6.jpg'
 			},
 			{
 				intro: 'Are these a collection of',
@@ -90,7 +89,7 @@ new Game(
 					ything: 'Legs'
 				},
 				answer: 'xthing',
-				image: '/toys/pvp/assets/7.jpg'
+				image: '/thing-vs-thing/assets/7.jpg'
 			},
 			{
 				intro: 'Is this a still from',
@@ -101,7 +100,7 @@ new Game(
 					ything: 'Pirates'
 				},
 				answer: 'ything',
-				image: '/toys/pvp/assets/8.jpg'
+				image: '/thing-vs-thing/assets/8.jpg'
 			},
 			{
 				intro: 'Is this a still from',
@@ -112,7 +111,7 @@ new Game(
 					ything: 'Pirates'
 				},
 				answer: 'xthing',
-				image: '/toys/pvp/assets/9.jpg'
+				image: '/thing-vs-thing/assets/9.jpg'
 			},
 			{
 				intro: 'Is this from',
@@ -123,7 +122,7 @@ new Game(
 					ything: 'Trial'
 				},
 				answer: 'xthing',
-				image: '/toys/pvp/assets/10.jpg'
+				image: '/thing-vs-thing/assets/10.jpg'
 			},
 			{
 				intro: 'Is this',
@@ -134,7 +133,7 @@ new Game(
 					ything: 'Booty'
 				},
 				answer: 'ything',
-				image: '/toys/pvp/assets/11.jpg'
+				image: '/thing-vs-thing/assets/11.jpg'
 			},
 			{
 				intro: 'Are this band',
@@ -145,7 +144,7 @@ new Game(
 					ything: 'Sex Pistols'
 				},
 				answer: 'ything',
-				image: '/toys/pvp/assets/12.jpg'
+				image: '/thing-vs-thing/assets/12.jpg'
 			}
 		],
 		audio: {
